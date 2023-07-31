@@ -9,7 +9,7 @@
   
 - 💪 I have worked at a **Java Developer** at **CIBC** and **Presagis, CAE**.
 
-- 🌱 This is my LinkedIn: https://www.linkedin.com/in/mengyi-guo/.
+- 🌱 This is my LinkedIn: https://www.linkedin.com/in/mengyi-guo/ and Youtube: https://www.youtube.com/@Lea-pe7jy.
 
 - 📝 I’will be graduating from **Virginia Tech** with a Master's Degree in **Information Technology**. 
 
@@ -19,21 +19,24 @@
 
 - 🎙️ I am also a podcast lover.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mengyi-guo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mengyi-guo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCu7Q8pfeEvjgTxVyj7YVxHw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@user-vh8rh8tj6b" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Tech Stack:</h3>
 - Languages: Java, Python, JavaScript, Kotlin. 
+
 - Backend: Spring MVC, Spring Boot, Django.
+  
 - Frontend: Vue.js, React.js, HTML, CSS.
+
 - Mobile: Android Jetpack. 
+
 - Version Control: Git, TortoiseSVN.
+
 - CI/CD: Maven, Gradle, Jenkins, Docker, Red Hat OpenShift, Postman, Splunk.
+
 - Databases: SQL - MySQL, SQLite; NoSQL - MongoDB.
+
 - Testing: Junit, Mockito, Espresso, Mocha, cppUnit.
+
 - Web services: SOAP, REST.
+
 - Project Management: Jira, Confluence, Agile, Scrum, Waterfall, Swagger UI
 - IDE: IntelliJ, Eclipse, Android Studio, Visual Studio Code.
