@@ -20,6 +20,7 @@
 - 🎙️ I am also a podcast lover.
 
 <h3 align="left">Tech Stack:</h3>
+
 - Languages: Java, Python, JavaScript, Kotlin. 
 
 - Backend: Spring MVC, Spring Boot, Django.
