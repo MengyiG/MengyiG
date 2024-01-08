@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/34220e95746151.5e9ecde696cb0.gif)](https://mengyig.io)
 
 <h1 align="center">Hi, Bonjour, 你好呀!</h1>
-<h2 align="center">This is Mengyi.🥳 I am a passionate software engineer 👩🏻‍💻 </h2>
+<p align="center">This is Mengyi. 🥳 A passionate software engineer.</p>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/h5vCZ5J3EJBQ7IkvO9/giphy.gif?cid=790b761196ef0c67eb2f8a0990bfc90daf225808545319b7&rid=giphy.gif&ct=s">
 <p align="left"> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mengyig&label=Profile%20views&color=0e75b6&style=flat" alt="mengyig" /> </p>
